@@ -1,5 +1,5 @@
 {
-  "name": "@kushagharahi/pi-llama-cpp",
+  "name": "@kushagharahi/pi-llama-extensions",
   "version": "0.1.0",
   "description": "Pi extensions for llama.cpp router — auto model discovery and tokens/second display",
   "keywords": [
