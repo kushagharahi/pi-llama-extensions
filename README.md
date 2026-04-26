@@ -46,5 +46,3 @@ Set `LLAMA_CPP_EXTENSION_DEBUG=1` to enable verbose logging. Each extension writ
 |-----------|----------|
 | Auto Model Discovery | `/tmp/llama-cpp-auto.log` |
 | TPS Display | `/tmp/llama-cpp-tps.log` |
-
-TPS Display also writes progress events to `/tmp/llama-cpp-tps-progress.log`.
