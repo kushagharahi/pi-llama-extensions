@@ -15,6 +15,6 @@
     "extensions": [
       "./extensions"
     ],
-    "image": "./screenshot.png"
+    "image": "https://raw.githubusercontent.com/kushagharahi/pi-llama-extensions/refs/heads/main/screenshot.png"
   }
 }
