@@ -12,9 +12,7 @@
 
 ## Quick start
 ```
-pi install ~/projects/pi-llama-cpp-extensions
-# or
-pi install npm:@kusha/pi-llama-cpp
+pi install npm:@kushagharahi/pi-llama-cpp
 ```
 
 ### models.json config for auto model discovery in router mode
