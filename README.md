@@ -1,5 +1,7 @@
 # [Pi](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent) extensions for [llama.cpp](https://github.com/ggerganov/llama.cpp) power users
 
+[![npm version](https://badge.fury.io/js/@kushagharahi%2Fpi-llama-extensions.svg)](https://badge.fury.io/js/@kushagharahi%2Fpi-llama-extensions)
+
 ## Features
 - Configure models only in llama.cpp
   - Auto model discovery in router mode -- you no longer have to duplicate what's in llama.cpp's `models.ini` in pi's `models.json`
